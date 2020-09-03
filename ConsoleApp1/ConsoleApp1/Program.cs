@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             string a = "123456";
             string b = "1234567";
+            if(a==b)
+                Console.Write("aaaaaaaaaaaaaaaaa");
         }
     }
 }
