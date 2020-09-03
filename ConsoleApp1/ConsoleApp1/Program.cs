@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string a = "123456";
+            string b = "1234567";
         }
     }
 }
